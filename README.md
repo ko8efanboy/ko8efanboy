@@ -3,8 +3,7 @@
 - &nbsp; I’m currently working on **learning to code**
 <br>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wmj3oey9ikdiq3u1qo59hevua)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ko8efanboy)](https://github.com/anuraghazra/github-readme-stats)
 # Contact Me:
 
 - Github: [ko8efanboy](https://github.com/ko8efanboy)
