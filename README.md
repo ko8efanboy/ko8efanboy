@@ -8,4 +8,4 @@
 # Contact Me:
 
 - Github: [ko8efanboy](https://github.com/ko8efanboy)
-- Discord: [ko8efanboy] (https://discordapp.com/users/189527265183268876)
+- Discord: [ko8efanboy](https://discordapp.com/users/189527265183268876)
