@@ -1,6 +1,6 @@
 ### 🧐More About Me:
 
-- &nbsp; I’m currently working on **learning to code**
+- &nbsp; I’m currently working on **C#**
 
 
 <!--START_SECTION:waka-->
