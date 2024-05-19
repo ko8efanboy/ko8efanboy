@@ -17,7 +17,7 @@ XML     0 secs          ░░░░░░░░░░░░░░░░░░�
   
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ko8efanboy&layout=compact&show_icons=true&theme=radical)
+
 
 
 # Contact Me:
