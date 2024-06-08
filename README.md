@@ -15,12 +15,13 @@ Markdown         9 mins          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![status](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/status/189527265183268876?simple=true)
+# My Profile Badges
+
+![Discord Status](https://lanyard-profile-readme.vercel.app/api/189527265183268876)
 ![playing](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/playing/189527265183268876)
 ![vscode](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/vscode/189527265183268876)
 [![spotify](https://nocache.advaith.workers.dev?url=https://dev.discordprofiles.me/api/badge/spotify/189527265183268876)](https://dev.discordprofiles.me/openspotify/189527265183268876)
 
-  
 <br>
 
 
