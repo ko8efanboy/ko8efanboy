@@ -19,6 +19,12 @@ Markdown         9 mins          ▒░░░░░░░░░░░░░░�
 
 
 
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-eight-pi.vercel.app/" alt="Current Spotify Song">
+</a>
+
+
+
 <br>
 
 
