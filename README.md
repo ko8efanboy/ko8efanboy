@@ -26,5 +26,4 @@ Markdown         9 mins          ▒░░░░░░░░░░░░░░�
 
 # Contact Me:
 
-- Github: [ko8efanboy](https://github.com/ko8efanboy)
 - Discord: [ko8efanboy](https://discordapp.com/users/189527265183268876)
